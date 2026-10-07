@@ -1,19 +1,4 @@
+import Link from "next/link";
 import { PARALIN_STOPS } from "@/lib/production/arouca-groove";
 
-export default function Home() {
-  return <main>
-    <h1>Storypath</h1>
-    <p>Concept rebuild in progress.</p>
-    <h2>Paralin</h2>
-    <p>A Caribbean-inspired community with Aaliyah and Theo.</p>
-    <p>The world is the interface. The learner makes the consequential choices.</p>
-    <h2>Standard 3 Mathematics: 18 protected stops</h2>
-    <p>These are working experience names. Their mathematical purposes, sequence,
-      dependencies, transfer requirements, and evidence remain protected.</p>
-    <ol aria-label="Protected learning stops">
-      {PARALIN_STOPS.map((stop) => <li key={stop.id}>{stop.name}</li>)}
-    </ol>
-    <p>Artwork, character appearances, geography, and interface design are being
-      reconsidered. This text checkpoint is not the new visual direction.</p>
-  </main>;
-}
+export default function Home(){return <main className="entry-shell"><section className="entry-hero"><div><p className="eyebrow">STORYPATH • PARALIN</p><h1>Learn it. Live it. Master it.</h1><p className="lede">Aaliyah and Theo are heading into Paralin. Something is happening at the Corner Shop, and they need your help.</p><Link className="primary-action" href="/paralin">Start the adventure <span>→</span></Link></div><div className="hero-characters"><img src="/characters/aaliyah.png" alt="Aaliyah"/><img src="/characters/theo.png" alt="Theo"/></div></section><section className="journey-card"><p className="eyebrow">THE PARALIN JOURNEY</p><h2>18 connected places to learn in</h2><ol aria-label="Protected learning stops">{PARALIN_STOPS.map(s=><li key={s.id} className={s.order===5?"current-stop":""}><span>{String(s.order).padStart(2,"0")}</span>{s.name}</li>)}</ol></section></main>}

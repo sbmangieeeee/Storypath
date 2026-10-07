@@ -4,7 +4,7 @@ Updated: 7 October 2026
 
 ## Current status
 
-The previous visual library was removed for the conceptual reset. The user subsequently supplied 15 new Paralin PNGs for audit and import. All 15 are APPROVED WITH NOTES as complete decorative building assemblies, not clean modular bases or a final visual direction. The July approval manifest remains superseded.
+The previous visual library was removed for the conceptual reset. The user subsequently supplied 18 new Paralin PNGs for audit and import. All 18 are APPROVED WITH NOTES as complete decorative building assemblies, not clean modular bases or a final visual direction. The July approval manifest remains superseded.
 
 - [Detailed per-file audit](design/storypath/environments/paralin/AUDIT.md)
 - [Machine-readable manifest](design/storypath/environments/paralin/asset-manifest.json)
