@@ -1,0 +1,3 @@
+import {it,expect} from 'vitest';
+import {villageComposition01,environmentTestScene,parseScene,clippedItems} from './paralin-scene';
+it('Composition 01 is separate, fits camera, and round trips all placements',()=>{const original=JSON.stringify(environmentTestScene());const s=villageComposition01();expect(s.items.map(i=>i.assetId)).toEqual(expect.arrayContaining(['shop','mixed','blue','yellow','env-grass','env-dirt','env-notice-front','env-bench-front','env-bin-front','env-lamp-front']));expect(clippedItems(s)).toHaveLength(0);expect(parseScene(JSON.parse(JSON.stringify(s)))).toEqual(s);expect(JSON.stringify(environmentTestScene())).toBe(original);});

@@ -1,0 +1,6 @@
+import {it,expect} from 'vitest';
+import {world} from './paralin-world';
+import {approvedHillsideScene} from './paralin-scene';
+import original from '../design/storypath/environments/paralin/composition-01.json';
+it('preserves approved snapshot exactly and returns independent copies',()=>{expect(approvedHillsideScene()).toEqual(original);const a=approvedHillsideScene();a.items[0].x=999;expect(approvedHillsideScene()).toEqual(original);});
+it('resolves scene, region, destination and transition references',()=>{const ids=world.scenes.map(s=>s.id);expect(new Set(ids).size).toBe(ids.length);for(const s of world.scenes){expect(world.regions.some(r=>r.id===s.regionId)).toBe(true);if(s.destinationId)expect(world.destinations.some(d=>d.id===s.destinationId)).toBe(true);for(const c of s.connections){expect(ids).toContain(c.to);expect(s.exitPoints.some(p=>p.id===c.exitId)).toBe(true);expect(world.scenes.find(t=>t.id===c.to)!.entryPoints.some(p=>p.id===c.entryId)).toBe(true);}for(const t of s.triggers){expect(ids).toContain(t.targetSceneId);expect(t.enabled).toBe(false);}}expect(new Set(world.scenes.map(s=>s.type)).size).toBe(3);expect(world.scenes.filter(s=>s.status==='approved-composition')).toHaveLength(1);});

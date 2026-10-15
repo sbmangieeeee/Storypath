@@ -1,0 +1,236 @@
+[
+  {
+    "id": "env-notice-rear",
+    "label": "Noticeboard rear",
+    "source": "street-furniture/paralin_village_noticeboard_01_rear.png",
+    "width": 1312,
+    "height": 1199,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-notice-front",
+    "label": "Noticeboard front",
+    "source": "street-furniture/paralin_village_noticeboard_01_front.png",
+    "width": 1312,
+    "height": 1199,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-bin-front",
+    "label": "Bin front",
+    "source": "street-furniture/paralin_street_bin_01.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-bin-rear",
+    "label": "Bin rear",
+    "source": "street-furniture/paralin_street_bin_01_rear.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-lamp-rear",
+    "label": "Lamp rear unlit",
+    "source": "street-furniture/paralin_street_lamp_01_rear.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-rear",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-rear-lit",
+    "label": "Lamp rear lit",
+    "source": "street-furniture/paralin_street_lamp_01_rear_lit.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-rear",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-front-lit",
+    "label": "Lamp front lit",
+    "source": "street-furniture/paralin_street_lamp_01_lit.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-front",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-front",
+    "label": "Lamp front unlit",
+    "source": "street-furniture/paralin_street_lamp_01.png",
+    "width": 1024,
+    "height": 1536,
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-front",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-bench-rear",
+    "label": "Bench rear",
+    "source": "street-furniture/paralin_street_bench_01_rear.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-bench-front",
+    "label": "Bench front",
+    "source": "street-furniture/paralin_street_bench_01_front.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-tree-shade",
+    "label": "Shade tree",
+    "source": "vegetation/paralin_tree_shade_01.png",
+    "width": 1215,
+    "height": 1295,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-shrub",
+    "label": "Tropical shrub",
+    "source": "vegetation/paralin_shrub_tropical_01.png",
+    "width": 1312,
+    "height": 1199,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-tree-mango",
+    "label": "Mango tree",
+    "source": "vegetation/paralin_tree_mango_01.png",
+    "width": 1145,
+    "height": 1374,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-tree-palm",
+    "label": "Coconut palm",
+    "source": "vegetation/paralin_tree_coconut_palm_01.png",
+    "width": 1268,
+    "height": 1241,
+    "defaultLayer": "foreground",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-dirt",
+    "label": "Dirt ground",
+    "source": "ground/paralin_ground_dirt_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "terrain",
+    "usable": true,
+    "notes": "Real alpha despite checkerboard-looking attachment preview; inspect residual pale edge pixels on contrasting backgrounds."
+  },
+  {
+    "id": "env-grass",
+    "label": "Grass ground",
+    "source": "ground/paralin_ground_grass_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "terrain",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-drain-short",
+    "label": "Short roadside drain",
+    "source": "ground/paralin_roadside_drain_short_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-pavement",
+    "label": "Straight pavement",
+    "source": "ground/paralin_pavement_straight_01.png",
+    "width": 1774,
+    "height": 887,
+    "defaultLayer": "roads",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-crossroads",
+    "label": "Crossroads",
+    "source": "roads/paralin_road_crossroads_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-roundabout",
+    "label": "Roundabout",
+    "source": "roads/paralin_road_roundabout_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-t-junction",
+    "label": "T junction",
+    "source": "roads/paralin_road_t_junction_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": true,
+    "notes": "Real alpha; axis-aligned projection differs from diagonal straight/curve. Requires matched camera, road width and terminal geometry."
+  },
+  {
+    "id": "env-curve",
+    "label": "Curved road",
+    "source": "roads/paralin_road_curve_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": true,
+    "notes": "Real alpha; 45 strong boundary pixels indicate right-edge clipping. Terminal curb faces, asphalt tone and dash phase do not join seamlessly."
+  },
+  {
+    "id": "env-straight",
+    "label": "Straight road",
+    "source": "roads/paralin_road_straight_01.png",
+    "width": 1536,
+    "height": 1024,
+    "defaultLayer": "roads",
+    "usable": true,
+    "notes": "Real alpha; terminal curb faces and lane dash phase need a shared modular seam specification."
+  }
+]

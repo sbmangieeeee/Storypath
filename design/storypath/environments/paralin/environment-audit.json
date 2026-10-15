@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "env-notice-rear",
+    "label": "Noticeboard rear",
+    "source": "street-furniture/paralin_village_noticeboard_01_rear.png",
+    "source_filename": "paralin_village_noticeboard_01_back.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_village_noticeboard_01_rear.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 36.57,
+    "zero": 575254,
+    "partial": 997379,
+    "opaque": 455,
+    "alphaBounds": [
+      26,
+      4,
+      1296,
+      1185
+    ],
+    "strongBounds": [
+      27,
+      5,
+      1295,
+      1184
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "b8ad2afc2d766f841c98c4dc5d5dc2ff541cd2190e5147bc468a8fe4df0b5d0f",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-notice-front",
+    "label": "Noticeboard front",
+    "source": "street-furniture/paralin_village_noticeboard_01_front.png",
+    "source_filename": "paralin_village_noticeboard_01_front.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_village_noticeboard_01_front.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 37.75,
+    "zero": 593878,
+    "partial": 978662,
+    "opaque": 548,
+    "alphaBounds": [
+      42,
+      9,
+      1295,
+      1184
+    ],
+    "strongBounds": [
+      43,
+      10,
+      1294,
+      1183
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "b4d88b7bf45d628685deac62b0baaaed8787fb992ccd4bdbdae27b0a3379c355",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-bin-front",
+    "label": "Bin front",
+    "source": "street-furniture/paralin_street_bin_01.png",
+    "source_filename": "paralin_street_bin_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_bin_01.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 34.57,
+    "zero": 543710,
+    "partial": 1029154,
+    "opaque": 0,
+    "alphaBounds": [
+      78,
+      9,
+      951,
+      1503
+    ],
+    "strongBounds": [
+      79,
+      10,
+      950,
+      1502
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        12,
+        1,
+        1,
+        0
+      ],
+      [
+        18,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        3,
+        1,
+        0
+      ],
+      [
+        1,
+        3,
+        1,
+        0
+      ]
+    ],
+    "sha256": "c626cb2b4f700663ab61b076b14157af7f19e0ae04188d1b8ed9fd37d7b02ab4",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-bin-rear",
+    "label": "Bin rear",
+    "source": "street-furniture/paralin_street_bin_01_rear.png",
+    "source_filename": "paralin_street_bin_01_rear.pn.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_bin_01_rear.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 36.37,
+    "zero": 572036,
+    "partial": 1000828,
+    "opaque": 0,
+    "alphaBounds": [
+      91,
+      12,
+      955,
+      1495
+    ],
+    "strongBounds": [
+      92,
+      13,
+      953,
+      1494
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        3,
+        1,
+        1,
+        0
+      ],
+      [
+        12,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        3,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ]
+    ],
+    "sha256": "7b16826004a38c9582f54ae4b444848c6ee710e00e6969711e79b0459ba20bcb",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-lamp-rear",
+    "label": "Lamp rear unlit",
+    "source": "street-furniture/paralin_street_lamp_01_rear.png",
+    "source_filename": "paralin_street_lamp_01_rear.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_lamp_01_rear.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 87.22,
+    "zero": 1371796,
+    "partial": 201068,
+    "opaque": 0,
+    "alphaBounds": [
+      226,
+      13,
+      889,
+      1525
+    ],
+    "strongBounds": [
+      228,
+      14,
+      888,
+      1524
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        19,
+        25,
+        27,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        0
+      ]
+    ],
+    "sha256": "e9b5ae4378494bbbed5d7a9b0c997f8772fa0d22ce5b6466c199b24160007f70",
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-rear",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-rear-lit",
+    "label": "Lamp rear lit",
+    "source": "street-furniture/paralin_street_lamp_01_rear_lit.png",
+    "source_filename": "paralin_street_lamp_01_rear_lit.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_lamp_01_rear_lit.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 85.97,
+    "zero": 1352201,
+    "partial": 220663,
+    "opaque": 0,
+    "alphaBounds": [
+      227,
+      8,
+      890,
+      1527
+    ],
+    "strongBounds": [
+      228,
+      10,
+      889,
+      1526
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        20,
+        27,
+        28,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ]
+    ],
+    "sha256": "ba3082f8f0094c08864daf825c92d9de87c2eda687fa37554a950996a0463cfe",
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-rear",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-front-lit",
+    "label": "Lamp front lit",
+    "source": "street-furniture/paralin_street_lamp_01_lit.png",
+    "source_filename": "paralin_street_lamp_01_lit.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_lamp_01_lit.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 88.86,
+    "zero": 1397682,
+    "partial": 175182,
+    "opaque": 0,
+    "alphaBounds": [
+      187,
+      10,
+      753,
+      1520
+    ],
+    "strongBounds": [
+      188,
+      11,
+      752,
+      1519
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        2,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ]
+    ],
+    "sha256": "ef9762174407eb80b17c0d92945f630f1c30303ac63c6913f8946eeae01171d5",
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-front",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-lamp-front",
+    "label": "Lamp front unlit",
+    "source": "street-furniture/paralin_street_lamp_01.png",
+    "source_filename": "paralin_street_lamp_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_lamp_01.png",
+    "width": 1024,
+    "height": 1536,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 90.68,
+    "zero": 1426299,
+    "partial": 146565,
+    "opaque": 0,
+    "alphaBounds": [
+      212,
+      28,
+      728,
+      1510
+    ],
+    "strongBounds": [
+      213,
+      29,
+      727,
+      1509
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        0
+      ]
+    ],
+    "sha256": "d159757907f1319c6b1de685e146d28b23960975d1b3c6c5380c07031187e6b7",
+    "defaultLayer": "foreground",
+    "lampGroup": "lamp-front",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha. Lit/unlit silhouettes and base proportions differ; switching preserves the transform, but artwork registration needs review."
+  },
+  {
+    "id": "env-bench-rear",
+    "label": "Bench rear",
+    "source": "street-furniture/paralin_street_bench_01_rear.png",
+    "source_filename": "paralin_street_bench_01_rear.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_bench_01_rear.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 52.54,
+    "zero": 826411,
+    "partial": 746453,
+    "opaque": 0,
+    "alphaBounds": [
+      29,
+      12,
+      1502,
+      1013
+    ],
+    "strongBounds": [
+      30,
+      13,
+      1501,
+      1012
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        3,
+        1,
+        1,
+        0
+      ],
+      [
+        98,
+        103,
+        78,
+        0
+      ],
+      [
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        2,
+        4,
+        2,
+        0
+      ]
+    ],
+    "sha256": "90d786595bc8ecfafe41eb8d68690eb22439d31068a1f2b8fd0123d891515c02",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-bench-front",
+    "label": "Bench front",
+    "source": "street-furniture/paralin_street_bench_01_front.png",
+    "source_filename": "paralin_street_bench_01_front.png.png",
+    "repository_path": "design/storypath/environments/paralin/street-furniture/paralin_street_bench_01_front.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 55.61,
+    "zero": 874715,
+    "partial": 698149,
+    "opaque": 0,
+    "alphaBounds": [
+      73,
+      30,
+      1485,
+      1001
+    ],
+    "strongBounds": [
+      74,
+      31,
+      1484,
+      999
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0
+      ]
+    ],
+    "sha256": "226ef2a24f1af6d43ff0c3acb11c311d3ab02b294ab137d3f08193404ec1e929",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-tree-shade",
+    "label": "Shade tree",
+    "source": "vegetation/paralin_tree_shade_01.png",
+    "source_filename": "paralin_tree_shade_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/vegetation/paralin_tree_shade_01.png",
+    "width": 1215,
+    "height": 1295,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 37.77,
+    "zero": 594344,
+    "partial": 978773,
+    "opaque": 308,
+    "alphaBounds": [
+      17,
+      11,
+      1206,
+      1281
+    ],
+    "strongBounds": [
+      19,
+      13,
+      1204,
+      1279
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "a37fa2e27d25c554c5da05bdcc1da0c1f1cab9e4557fcc1db2a725f5e1e62406",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-shrub",
+    "label": "Tropical shrub",
+    "source": "vegetation/paralin_shrub_tropical_01.png",
+    "source_filename": "paralin_plant_tropical_shrub_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/vegetation/paralin_shrub_tropical_01.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 38.52,
+    "zero": 605927,
+    "partial": 966766,
+    "opaque": 395,
+    "alphaBounds": [
+      19,
+      11,
+      1300,
+      1165
+    ],
+    "strongBounds": [
+      21,
+      12,
+      1297,
+      1163
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "3263499cecbf32884e138a4220a83f938568614785e70723d801fe840fbc64ea",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-tree-mango",
+    "label": "Mango tree",
+    "source": "vegetation/paralin_tree_mango_01.png",
+    "source_filename": "paralin_tree_mango_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/vegetation/paralin_tree_mango_01.png",
+    "width": 1145,
+    "height": 1374,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 39.49,
+    "zero": 621342,
+    "partial": 951664,
+    "opaque": 224,
+    "alphaBounds": [
+      13,
+      10,
+      1131,
+      1361
+    ],
+    "strongBounds": [
+      14,
+      12,
+      1129,
+      1360
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "c1d343358ccaa9fc21c80c24d750135124ceef8d71314f9a88745509cc07d952",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-tree-palm",
+    "label": "Coconut palm",
+    "source": "vegetation/paralin_tree_coconut_palm_01.png",
+    "source_filename": "paralin_tree_coconut_palm_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/vegetation/paralin_tree_coconut_palm_01.png",
+    "width": 1268,
+    "height": 1241,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 59.45,
+    "zero": 935525,
+    "partial": 637528,
+    "opaque": 535,
+    "alphaBounds": [
+      128,
+      8,
+      1181,
+      1217
+    ],
+    "strongBounds": [
+      130,
+      10,
+      1178,
+      1216
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "sha256": "74e1104b5238e6cc093d0cb9525524b979083d526f48eede2b9be419a4a3cede",
+    "defaultLayer": "foreground",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; saturated edge fringes visible in supplied preview. Tight silhouette bounds need close-up review."
+  },
+  {
+    "id": "env-dirt",
+    "label": "Dirt ground",
+    "source": "ground/paralin_ground_dirt_01.png",
+    "source_filename": "paralin_ground_dirt_01.png",
+    "repository_path": "design/storypath/environments/paralin/ground/paralin_ground_dirt_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      255
+    ],
+    "transparentPercent": 53.64,
+    "zero": 843690,
+    "partial": 9848,
+    "opaque": 719326,
+    "alphaBounds": [
+      39,
+      26,
+      1494,
+      1003
+    ],
+    "strongBounds": [
+      40,
+      27,
+      1493,
+      1002
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        253,
+        253,
+        253,
+        0
+      ],
+      [
+        211,
+        214,
+        214,
+        0
+      ],
+      [
+        210,
+        209,
+        211,
+        0
+      ],
+      [
+        244,
+        244,
+        243,
+        0
+      ]
+    ],
+    "sha256": "14f471ca56e735110120a21a5baeb5f4f40a2509cfd8913ad975312797838195",
+    "defaultLayer": "terrain",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha despite checkerboard-looking attachment preview; inspect residual pale edge pixels on contrasting backgrounds."
+  },
+  {
+    "id": "env-grass",
+    "label": "Grass ground",
+    "source": "ground/paralin_ground_grass_01.png",
+    "source_filename": "paralin_ground_grass_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/ground/paralin_ground_grass_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 51.42,
+    "zero": 808781,
+    "partial": 764083,
+    "opaque": 0,
+    "alphaBounds": [
+      51,
+      31,
+      1487,
+      988
+    ],
+    "strongBounds": [
+      53,
+      33,
+      1485,
+      985
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        3,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ]
+    ],
+    "sha256": "1d125ca1dfe357eaea5fcb00e1351981bcb1644d25a2c50dfa189cffe9e2ff2a",
+    "defaultLayer": "terrain",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-drain-short",
+    "label": "Short roadside drain",
+    "source": "ground/paralin_roadside_drain_short_01.png",
+    "source_filename": "paralin_drain_short_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/ground/paralin_roadside_drain_short_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 52.19,
+    "zero": 820886,
+    "partial": 751978,
+    "opaque": 0,
+    "alphaBounds": [
+      80,
+      138,
+      1477,
+      934
+    ],
+    "strongBounds": [
+      81,
+      139,
+      1476,
+      933
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        0
+      ]
+    ],
+    "sha256": "5737cbe50ab7e6fffd8de5bacb35bd45e8eda940d5e706c0f34fdfc8491d2c82",
+    "defaultLayer": "roads",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; soft edge/shadow pixels and contact position require visual review."
+  },
+  {
+    "id": "env-pavement",
+    "label": "Straight pavement",
+    "source": "ground/paralin_pavement_straight_01.png",
+    "source_filename": "paralin_pavement_straight_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/ground/paralin_pavement_straight_01.png",
+    "width": 1774,
+    "height": 887,
+    "format": "png",
+    "hasAlpha": false,
+    "alphaRange": [
+      255,
+      255
+    ],
+    "transparentPercent": 0,
+    "zero": 0,
+    "partial": 0,
+    "opaque": 1573538,
+    "alphaBounds": [
+      0,
+      0,
+      1773,
+      886
+    ],
+    "strongBounds": [
+      0,
+      0,
+      1773,
+      886
+    ],
+    "strongEdgePixels": 5318,
+    "corners": [
+      [
+        253,
+        253,
+        252,
+        255
+      ],
+      [
+        216,
+        218,
+        220,
+        255
+      ],
+      [
+        254,
+        254,
+        254,
+        255
+      ],
+      [
+        252,
+        252,
+        252,
+        255
+      ]
+    ],
+    "sha256": "848bb8c3efba9a5d9b601e6ea1c735c416f604b6a304e44ed601fc99eb09e698",
+    "defaultLayer": "roads",
+    "status": "NEEDS REVISION",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-crossroads",
+    "label": "Crossroads",
+    "source": "roads/paralin_road_crossroads_01.png",
+    "source_filename": "paralin_road_crossroads_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/roads/paralin_road_crossroads_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": false,
+    "alphaRange": [
+      255,
+      255
+    ],
+    "transparentPercent": 0,
+    "zero": 0,
+    "partial": 0,
+    "opaque": 1572864,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ],
+    "strongBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ],
+    "strongEdgePixels": 5116,
+    "corners": [
+      [
+        253,
+        253,
+        253,
+        255
+      ],
+      [
+        212,
+        215,
+        216,
+        255
+      ],
+      [
+        253,
+        253,
+        253,
+        255
+      ],
+      [
+        211,
+        211,
+        215,
+        255
+      ]
+    ],
+    "sha256": "4767f6854cc83e03d739ab9300785733be80a827c9c4f34b904fc4005bebe5e2",
+    "defaultLayer": "roads",
+    "status": "NEEDS REVISION",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-roundabout",
+    "label": "Roundabout",
+    "source": "roads/paralin_road_roundabout_01.png",
+    "source_filename": "paralin_road_roundabout_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/roads/paralin_road_roundabout_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": false,
+    "alphaRange": [
+      255,
+      255
+    ],
+    "transparentPercent": 0,
+    "zero": 0,
+    "partial": 0,
+    "opaque": 1572864,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ],
+    "strongBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ],
+    "strongEdgePixels": 5116,
+    "corners": [
+      [
+        253,
+        253,
+        253,
+        255
+      ],
+      [
+        216,
+        219,
+        220,
+        255
+      ],
+      [
+        253,
+        253,
+        254,
+        255
+      ],
+      [
+        212,
+        213,
+        217,
+        255
+      ]
+    ],
+    "sha256": "a19f230629d8066cfbbfb8c3d2596fdf54b461113c317dc5d0cdb4f40789e6ab",
+    "defaultLayer": "roads",
+    "status": "NEEDS REVISION",
+    "usable": false,
+    "notes": "BLOCKED: fully opaque baked checkerboard. Requires a genuine transparent PNG export."
+  },
+  {
+    "id": "env-t-junction",
+    "label": "T junction",
+    "source": "roads/paralin_road_t_junction_01.png",
+    "source_filename": "paralin_road_tjunction_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/roads/paralin_road_t_junction_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 47.23,
+    "zero": 742829,
+    "partial": 830035,
+    "opaque": 0,
+    "alphaBounds": [
+      8,
+      74,
+      1527,
+      949
+    ],
+    "strongBounds": [
+      8,
+      75,
+      1526,
+      948
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        104,
+        90,
+        65,
+        0
+      ],
+      [
+        106,
+        89,
+        63,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ]
+    ],
+    "sha256": "e56fe303d0bcab54b01f5121cc4fe15ec0e619a0dd9876851e274cb905183975",
+    "defaultLayer": "roads",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; axis-aligned projection differs from diagonal straight/curve. Requires matched camera, road width and terminal geometry."
+  },
+  {
+    "id": "env-curve",
+    "label": "Curved road",
+    "source": "roads/paralin_road_curve_01.png",
+    "source_filename": "paralin_road_corner_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/roads/paralin_road_curve_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 56.49,
+    "zero": 888584,
+    "partial": 684280,
+    "opaque": 0,
+    "alphaBounds": [
+      29,
+      8,
+      1535,
+      1023
+    ],
+    "strongBounds": [
+      30,
+      9,
+      1535,
+      1023
+    ],
+    "strongEdgePixels": 45,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        21,
+        20,
+        17,
+        0
+      ],
+      [
+        9,
+        8,
+        5,
+        0
+      ],
+      [
+        2,
+        3,
+        2,
+        0
+      ]
+    ],
+    "sha256": "328b0829ad9b6da5e6ea194efd01982c9fbbccd23482000b8de79c50a7698800",
+    "defaultLayer": "roads",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; 45 strong boundary pixels indicate right-edge clipping. Terminal curb faces, asphalt tone and dash phase do not join seamlessly."
+  },
+  {
+    "id": "env-straight",
+    "label": "Straight road",
+    "source": "roads/paralin_road_straight_01.png",
+    "source_filename": "paralin_road_straight_01.png.png",
+    "repository_path": "design/storypath/environments/paralin/roads/paralin_road_straight_01.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "hasAlpha": true,
+    "alphaRange": [
+      0,
+      254
+    ],
+    "transparentPercent": 60.34,
+    "zero": 949096,
+    "partial": 623768,
+    "opaque": 0,
+    "alphaBounds": [
+      15,
+      33,
+      1520,
+      1009
+    ],
+    "strongBounds": [
+      16,
+      34,
+      1519,
+      1008
+    ],
+    "strongEdgePixels": 0,
+    "corners": [
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        0
+      ]
+    ],
+    "sha256": "ccaad41cff73f8fcd99737e677b96ff856cabf05161809f6331816ff1d4e0471",
+    "defaultLayer": "roads",
+    "status": "PENDING REVIEW",
+    "usable": true,
+    "notes": "Real alpha; terminal curb faces and lane dash phase need a shared modular seam specification."
+  }
+]
