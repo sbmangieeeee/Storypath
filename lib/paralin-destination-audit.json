@@ -1,0 +1,338 @@
+[
+  {
+    "filename": "paralin-big-bakehouse-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 25.91,
+    "partialPixels": 1165318,
+    "strongEdgePixels": 0,
+    "sha256": "ba34c74f0110b52832b96648ff05a477b492929f8075ccf3dee66797e245e8bc",
+    "source": "destinations/paralin-big-bakehouse-01.png.png",
+    "faintPixels": 49689,
+    "nearlyOpaquePixels": 1078924,
+    "alphaBounds": [
+      0,
+      24,
+      1535,
+      994
+    ]
+  },
+  {
+    "filename": "paralin-builders-yard-01.png.png",
+    "width": 1774,
+    "height": 887,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "transparentPercent": 41.03,
+    "partialPixels": 926863,
+    "strongEdgePixels": 0,
+    "sha256": "41614b8ea18e5a678df1aabe4fdfb9b3e527219e2ff1158c982ac6f47e604607",
+    "source": "destinations/paralin-builders-yard-01.png.png",
+    "faintPixels": 25922,
+    "nearlyOpaquePixels": 892180,
+    "alphaBounds": [
+      0,
+      21,
+      1773,
+      886
+    ]
+  },
+  {
+    "filename": "paralin-community-playground-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 34.27,
+    "partialPixels": 1033889,
+    "strongEdgePixels": 0,
+    "sha256": "cd15b3fb85e39531d3b3b97214300b7f1ef3af8df7be447e3f4b377308325b6d",
+    "source": "destinations/paralin-community-playground-01.png.png",
+    "faintPixels": 118981,
+    "nearlyOpaquePixels": 844069,
+    "alphaBounds": [
+      0,
+      4,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-delivery-depot-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 31.36,
+    "partialPixels": 1079606,
+    "strongEdgePixels": 0,
+    "sha256": "44ad21ea7c342bfe51be355dee1eac784c30cc9057a24b871f7f2898d9554f74",
+    "source": "destinations/paralin-delivery-depot-01.png.png",
+    "faintPixels": 147662,
+    "nearlyOpaquePixels": 872618,
+    "alphaBounds": [
+      0,
+      5,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-farmers-market-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 29.58,
+    "partialPixels": 1107588,
+    "strongEdgePixels": 0,
+    "sha256": "12494eb0696c1b888e3dc83a90cfddec73c973af34067ad6e1e5d4251c1c65bc",
+    "source": "destinations/paralin-farmers-market-01.png.png",
+    "faintPixels": 99711,
+    "nearlyOpaquePixels": 943984,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-grand-library-candidate.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 32.56,
+    "partialPixels": 1060664,
+    "strongEdgePixels": 0,
+    "sha256": "575a34fce882b378907fefafc2afd8ffa3a8de787cf7ab2a908c5de3bfa3c079",
+    "source": "civic/library/paralin-grand-library-candidate.png",
+    "faintPixels": 52359,
+    "nearlyOpaquePixels": 977863,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-harbour-storehouse-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 26.41,
+    "partialPixels": 1157497,
+    "strongEdgePixels": 0,
+    "sha256": "9866a004c102932e38efe82e5116bafc199b2774df6b204c7a602fc2367b9e22",
+    "source": "destinations/paralin-harbour-storehouse-01.png.png",
+    "faintPixels": 63616,
+    "nearlyOpaquePixels": 1036263,
+    "alphaBounds": [
+      0,
+      24,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-kite-makers-yard-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 31.03,
+    "partialPixels": 1084869,
+    "strongEdgePixels": 0,
+    "sha256": "8d55b0c910adb9a43f891aef76c96da57ec696044031c31fe34f914847039da8",
+    "source": "destinations/paralin-kite-makers-yard-01.png.png",
+    "faintPixels": 81126,
+    "nearlyOpaquePixels": 942070,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-mas-camp-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 34.45,
+    "partialPixels": 1031017,
+    "strongEdgePixels": 0,
+    "sha256": "bbbede02fe9f965224d50777ec23d3f6adacc3f28a9646c5837fc086b6872f12",
+    "source": "destinations/paralin-mas-camp-01.png.png",
+    "faintPixels": 55356,
+    "nearlyOpaquePixels": 939586,
+    "alphaBounds": [
+      0,
+      23,
+      1535,
+      949
+    ]
+  },
+  {
+    "filename": "paralin-post-office-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 24.32,
+    "partialPixels": 1190307,
+    "strongEdgePixels": 0,
+    "sha256": "f62f96d469f6d8f1e5c5fc9c0c7b258757e8e5f5519927b8618d0a0ad02ebdcf",
+    "source": "destinations/paralin-post-office-01.png.png",
+    "faintPixels": 67709,
+    "nearlyOpaquePixels": 1067126,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-radio-station-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 35.72,
+    "partialPixels": 1011079,
+    "strongEdgePixels": 0,
+    "sha256": "fc9abd2ec722f0218e1db8aa9524190ef8de2711064e8be1d61f864ac1143a65",
+    "source": "destinations/paralin-radio-station-01.png.png",
+    "faintPixels": 111078,
+    "nearlyOpaquePixels": 813758,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-savannah-sports-ground-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 34.99,
+    "partialPixels": 1022580,
+    "strongEdgePixels": 0,
+    "sha256": "d2de2feaf73804f092c19f6d1a89af4e33c8798a52d9f584e26b5734fc3d8b7f",
+    "source": "destinations/paralin-savannah-sports-ground-01.png.png",
+    "faintPixels": 58092,
+    "nearlyOpaquePixels": 933299,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1009
+    ]
+  },
+  {
+    "filename": "paralin-tailors-loft-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 31.13,
+    "partialPixels": 1083154,
+    "strongEdgePixels": 0,
+    "sha256": "a152218c5267aaadd1288221f9e7d85affc6ef895806fba25d52815073ef454e",
+    "source": "destinations/paralin-tailors-loft-01.png.png",
+    "faintPixels": 48638,
+    "nearlyOpaquePixels": 995318,
+    "alphaBounds": [
+      0,
+      0,
+      1511,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-tailors-loft-rear-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 32,
+    "partialPixels": 1069584,
+    "strongEdgePixels": 0,
+    "sha256": "446c386858669aafb702ee53b9afdf2d3a6011d4622be2365d5ce5e3ecdefcce",
+    "source": "destinations/paralin-tailors-loft-rear-01.png.png",
+    "faintPixels": 34989,
+    "nearlyOpaquePixels": 1013968,
+    "alphaBounds": [
+      0,
+      2,
+      1525,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-water-park-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 31.25,
+    "partialPixels": 1081267,
+    "strongEdgePixels": 0,
+    "sha256": "5f3b0542e301607cb7db967641ac15f598b266c1404f08f600c4626128fdcfd6",
+    "source": "destinations/paralin-water-park-01.png.png",
+    "faintPixels": 67354,
+    "nearlyOpaquePixels": 960247,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  },
+  {
+    "filename": "paralin-wildlife-reserve-01.png.png",
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": true,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "transparentPercent": 29.41,
+    "partialPixels": 1110241,
+    "strongEdgePixels": 0,
+    "sha256": "5947cc25f19370d329ff2978434da4fd7dfd776bffcf24845ad35d0b8af6edea",
+    "source": "destinations/paralin-wildlife-reserve-01.png.png",
+    "faintPixels": 80511,
+    "nearlyOpaquePixels": 922410,
+    "alphaBounds": [
+      0,
+      0,
+      1535,
+      1023
+    ]
+  }
+]

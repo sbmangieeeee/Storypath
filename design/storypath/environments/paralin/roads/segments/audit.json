@@ -1,0 +1,67 @@
+{
+  "archive": "paralin_road_segments.zip",
+  "archiveSha256": "30e80f9829d7aed1fdcd3d4da69ce03572fd12d1775af926e28d4eaa3a4971d1",
+  "manifestSha256": "0ed60838af3873bebb9f960a6a103d28532457935c485333e19add192fa54c65",
+  "assets": [
+    {
+      "file": "paralin_road_straight_01.png",
+      "width": 320,
+      "height": 683,
+      "hasAlpha": true,
+      "transparentPercent": 76.46046852122986,
+      "partialPixels": 50992,
+      "sha256": "2e1b7671672c5b498fc54698832da9651d387bff0a0438f901a838fe09813a45",
+      "existingIdenticalFiles": []
+    },
+    {
+      "file": "paralin_road_curve_01.png",
+      "width": 505,
+      "height": 831,
+      "hasAlpha": true,
+      "transparentPercent": 77.08141211233037,
+      "partialPixels": 95865,
+      "sha256": "3a59a1ab9635de5f5e5ca29b8f48e83b36b5459a81de578d1209392debbc814d",
+      "existingIdenticalFiles": []
+    },
+    {
+      "file": "paralin_road_roundabout_01.png",
+      "width": 565,
+      "height": 440,
+      "hasAlpha": true,
+      "transparentPercent": 24.061946902654867,
+      "partialPixels": 188628,
+      "sha256": "40277760afcaa3502fe919ec1b8803a7fd539b81194ac7477031194fd2977332",
+      "existingIdenticalFiles": []
+    },
+    {
+      "file": "paralin_road_t_junction_01.png",
+      "width": 540,
+      "height": 212,
+      "hasAlpha": true,
+      "transparentPercent": 21.070055904961567,
+      "partialPixels": 90260,
+      "sha256": "f6fc7838d44b0daf5496b3bc623d3fc95d2e5650e6be0f80422f12cbd27fbaee",
+      "existingIdenticalFiles": []
+    },
+    {
+      "file": "paralin_road_straight_02.png",
+      "width": 384,
+      "height": 848,
+      "hasAlpha": true,
+      "transparentPercent": 79.89478920990565,
+      "partialPixels": 65449,
+      "sha256": "beba0b12245f643d74e8b21b9749d96e7eb1556857499bacb6da8a2be0af43d8",
+      "existingIdenticalFiles": []
+    },
+    {
+      "file": "paralin_road_roundabout_south_connector_01.png",
+      "width": 542,
+      "height": 205,
+      "hasAlpha": true,
+      "transparentPercent": 63.27423274232742,
+      "partialPixels": 40643,
+      "sha256": "41718ee08aaae8b743997d09d353fbd6f0a49a19a8213b1170a1cdeb4014d7b3",
+      "existingIdenticalFiles": []
+    }
+  ]
+}

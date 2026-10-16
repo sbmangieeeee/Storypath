@@ -1,0 +1,67 @@
+[
+  {
+    "a": "straight_01",
+    "b": "curve_01",
+    "axis": "x",
+    "seam": 320,
+    "scan": [
+      300,
+      510
+    ],
+    "bothStrong": 156,
+    "oneSideOnly": 0,
+    "neitherStrong": 54
+  },
+  {
+    "a": "curve_01",
+    "b": "roundabout_01",
+    "axis": "x",
+    "seam": 825,
+    "scan": [
+      330,
+      540
+    ],
+    "bothStrong": 160,
+    "oneSideOnly": 0,
+    "neitherStrong": 50
+  },
+  {
+    "a": "roundabout_01",
+    "b": "straight_02",
+    "axis": "x",
+    "seam": 1390,
+    "scan": [
+      330,
+      540
+    ],
+    "bothStrong": 161,
+    "oneSideOnly": 0,
+    "neitherStrong": 49
+  },
+  {
+    "a": "t_junction_01",
+    "b": "roundabout_01",
+    "axis": "y",
+    "seam": 225,
+    "scan": [
+      1000,
+      1250
+    ],
+    "bothStrong": 189,
+    "oneSideOnly": 0,
+    "neitherStrong": 61
+  },
+  {
+    "a": "roundabout_01",
+    "b": "roundabout_south_connector_01",
+    "axis": "y",
+    "seam": 665,
+    "scan": [
+      1000,
+      1250
+    ],
+    "bothStrong": 194,
+    "oneSideOnly": 0,
+    "neitherStrong": 56
+  }
+]

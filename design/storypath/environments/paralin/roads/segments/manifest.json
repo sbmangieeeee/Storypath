@@ -1,0 +1,98 @@
+{
+  "paralin_road_straight_01.png": {
+    "master_rect": [
+      0,
+      0,
+      320,
+      887
+    ],
+    "master_offset": [
+      0,
+      19
+    ],
+    "size": [
+      320,
+      683
+    ]
+  },
+  "paralin_road_curve_01.png": {
+    "master_rect": [
+      320,
+      0,
+      825,
+      887
+    ],
+    "master_offset": [
+      320,
+      26
+    ],
+    "size": [
+      505,
+      831
+    ]
+  },
+  "paralin_road_roundabout_01.png": {
+    "master_rect": [
+      825,
+      225,
+      1390,
+      665
+    ],
+    "master_offset": [
+      825,
+      225
+    ],
+    "size": [
+      565,
+      440
+    ]
+  },
+  "paralin_road_t_junction_01.png": {
+    "master_rect": [
+      825,
+      0,
+      1390,
+      225
+    ],
+    "master_offset": [
+      850,
+      13
+    ],
+    "size": [
+      540,
+      212
+    ]
+  },
+  "paralin_road_straight_02.png": {
+    "master_rect": [
+      1390,
+      0,
+      1774,
+      887
+    ],
+    "master_offset": [
+      1390,
+      15
+    ],
+    "size": [
+      384,
+      848
+    ]
+  },
+  "paralin_road_roundabout_south_connector_01.png": {
+    "master_rect": [
+      825,
+      665,
+      1390,
+      887
+    ],
+    "master_offset": [
+      831,
+      665
+    ],
+    "size": [
+      542,
+      205
+    ]
+  }
+}

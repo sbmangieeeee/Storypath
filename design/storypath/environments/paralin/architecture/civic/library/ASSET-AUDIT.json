@@ -1,0 +1,33 @@
+{
+  "id": "grand-library-candidate",
+  "source_filename": "paralin-grand-library-candidate.png",
+  "repository_path": "design/storypath/environments/paralin/architecture/civic/library/paralin-grand-library-candidate.png",
+  "width": 1536,
+  "height": 1024,
+  "format": "png",
+  "hasAlpha": true,
+  "alphaRange": [
+    0,
+    254
+  ],
+  "zero": 512200,
+  "partial": 1060664,
+  "opaque": 0,
+  "transparentPercent": 32.56479899088542,
+  "alphaBounds": [
+    0,
+    0,
+    1535,
+    1023
+  ],
+  "strongBounds": [
+    24,
+    66,
+    1528,
+    987
+  ],
+  "strongEdgePixels": 0,
+  "sha256": "575a34fce882b378907fefafc2afd8ffa3a8de787cf7ab2a908c5de3bfa3c079",
+  "status": "NEEDS REVISION",
+  "notes": "Candidate integrated for review only. Low upward-looking perspective differs from elevated world camera; no production approval."
+}
