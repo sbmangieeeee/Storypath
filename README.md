@@ -22,7 +22,7 @@ The next design phase will rebuild Storypath's world layout, character relations
 
 **Learn the concept → understand why it matters → use it in a meaningful situation → practise → transfer → demonstrate mastery.**
 
-**Learn it. Live it. Master it.**
+**Learn Along the Way.**
 
 ## Protected curriculum
 
