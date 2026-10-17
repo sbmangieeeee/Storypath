@@ -106,3 +106,16 @@ Older Bridgepath documents may contain valuable reasoning alongside superseded n
 | 7 October 2026 | Audited and imported 15 new user-supplied Paralin PNGs as decorated assemblies, all APPROVED WITH NOTES; source bytes preserved, duplicate extensions normalized. No world construction or gameplay changes. |
 | 7 October 2026 | Added three mixed-use restaurant-residence variants to the reusable Paralin architecture library; 18 assets total, all APPROVED WITH NOTES. |
 | 7 October 2026 | Adopted a reusable-vocabulary production workflow inspired by the linked 2D point-and-click process: visual grammar, annotation, layer separation, canonical variants, scene data, editor review, then one vertical experience. |
+
+
+## Founder-approved production update — 17 October 2026 (supersedes earlier open/reset items)
+
+**Active names:** Storypath / Paralin / Aaliyah and Theo. Niko and Zuri are legacy character assets/research or potential supporting characters, **not protagonists**. Arouca Grove/Groove and Kairana are historical names only. Old paths may remain temporarily for safe migration, not player-facing copy.
+
+**Game:** Classic 2D adventure presentation inspired by Monkey Island; interactive classroom instruction and readiness before map-based travel; story dialogue and mission-specific hands-on Mathematics; expressive light character/environment animation; fully voiced, replayable dialogue; desktop and tablet mouse/touch; accessible by default. Parent-managed child profiles and protected parent dashboard. Strict 18-stop sequence; public release includes all 18 and dashboard.
+
+**First playable milestone:** An interactive welcome screen featuring **Aaliyah and Theo together** in their homemade **backyard clubhouse within a Paralin residential neighbourhood**. Environmental menu objects expose Continue, Map, Learning Journal and Settings through hover/highlight and equivalent touch cues. Continue resumes saved checkpoint. The clubhouse stays visually consistent for now; no decorating/customisation or evolving souvenirs in the initial build. Follow this with the connected Grand Library vertical slice (classroom → readiness → map → library mission → resolution → save/resume).
+
+**Production method:** Review/reuse suitable existing art, adapt or selectively rebuild what fails the visual/gameplay standard. Asset Studio and Codex develop and integrate **one scene at a time**, testing each playable result before proceeding. The supplied clubhouse mockups are conceptual, not final production assets. The October 7 prohibition on implementing gameplay is superseded.
+
+**Known migration work:** The homepage currently points toward Corner Shop (stop 5); `app/arouca-groove/*` and `lib/production/arouca-groove.ts` still carry historical route/file names. Retire or redirect legacy routes and migrate imports carefully, retaining curriculum and save-data compatibility. Old `PRODUCT.md` and other Bridgepath documents contain superseded canon. Do not erase useful character/curriculum history.
