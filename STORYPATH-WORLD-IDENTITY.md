@@ -9,7 +9,7 @@ This document controls the current names and identity direction for Storypath wh
 
 **Storypath** is a 2D Caribbean-inspired educational adventure where children learn curriculum concepts, experience why they matter, and use them to solve meaningful problems in an interactive living world.
 
-Product principle: **Learn it. Live it. Master it.**
+Product principle: **Learn Along the Way.**
 
 ## First community
 
