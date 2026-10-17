@@ -1,3 +1,7 @@
+> **HISTORICAL BRIDGEPATH PRODUCT RESEARCH — NOT CURRENT GAME CANON.** This document contains superseded references to Bridgepath, Kairana, Arouca Grove and the old pilot scope. Current product is **Storypath**, first community **Paralin**, with playable protagonists **Aaliyah and Theo** (not Niko/Zuri). Preserve useful pedagogy and evidence concepts, but consult `CLAUDE.md`, `PROJECT-STATUS.md`, `STORYPATH-WORLD-IDENTITY.md` and the protected 18-stop curriculum for current decisions. Public launch is all 18 Mathematics missions plus parent dashboard; first internal playable slice is the clubhouse and Grand Library. Do not implement the historical pilot geography below.
+
+---
+
 # Bridgepath Product Definition
 
 ## Promise
