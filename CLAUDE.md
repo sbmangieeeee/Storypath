@@ -3,7 +3,7 @@
 > Current founder-approved direction: 17 October 2026. This document supersedes conflicting historical Bridgepath, Kairana, Arouca Grove/Groove and October 7 reset instructions. Work on `storypath-visual-reset`; do not change or merge `main` without explicit founder approval.
 
 ## Canon (non-negotiable)
-- Product: **Storypath**. Tagline: **Learn it. Live it. Master it.**
+- Product: **Storypath**. Tagline: **Learn Along the Way.**
 - First community: **Paralin**, a fictional Trinidad-inspired town, with subtle Arouca, Gasparillo and Lopinot influences. **Arouca Grove**, the misspelling **Arouca Groove**, and **Kairana** are historical concepts, never current player-facing names.
 - Playable child protagonists: **Aaliyah** and **Theo**. The child selects one for lessons and missions. Both appear together on the welcome screen. **Niko and Zuri are NOT playable protagonists**; retain old character research/art as historical or possible supporting-cast material, not as a replacement or reskin of Aaliyah and Theo. No final adult cast identities are assumed without approval.
 - Preserve the exact ordered **18 Standard 3 Mathematics stops**, beginning with **The Grand Library Book Hunt**, as defined in `STANDARD-3-MATHEMATICS-TOWN-LEARNING-JOURNEY.md`. Mathematics first; English later. First public release requires all 18 missions and parent dashboard, but the first internal playable vertical slice is Grand Library.
