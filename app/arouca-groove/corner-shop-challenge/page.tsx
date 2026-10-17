@@ -1,10 +1,6 @@
-import Link from "next/link";
-import { LessonRunner } from "@/components/production/LessonRunner";
-import { CORNER_SHOP_ACTIVITIES } from "@/lib/production/arouca-groove";
+import { redirect } from "next/navigation";
 
-export default function CornerShopChallengePage() {
-  return <div className="production-page">
-    <nav aria-label="Breadcrumb"><Link href="/arouca-groove">Paralin</Link> <span aria-hidden="true">/</span> Corner Shop Challenge</nav>
-    <LessonRunner title="The Corner Shop Challenge" activities={CORNER_SHOP_ACTIVITIES} />
-  </div>;
+/** Historical Arouca Groove URL retained only for old bookmarks. */
+export default function LegacyCornerShopChallengePage() {
+  redirect("/paralin/corner-shop");
 }
